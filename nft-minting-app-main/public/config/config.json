@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1b6e732a669649F9Ab7aee4610fEeb887E892551",
+  "SCAN_LINK": "https://etherscan.io/address/0x1b6e732a669649F9Ab7aee4610fEeb887E892551",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Ice Cream World 3D",
+  "SYMBOL": "ICW3D",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 2000000000000000,
+  "DISPLAY_COST": 0.002,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ice-cream-world-3d",
+  "SHOW_BACKGROUND": true
+}
